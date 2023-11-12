@@ -21,6 +21,8 @@ std::string problemSolution3(float height, char S) {
     } else {
         heightDescription = "Invalid sex";
     }
+
+    return heightDescription;
     // use return to return your result
     // make use of control flow statements
 }
