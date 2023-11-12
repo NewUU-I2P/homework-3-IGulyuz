@@ -13,7 +13,7 @@ int main() {
     cout << "Problem 2\n";
     problemSolution2();
     cout << "Problem 3\n";
-    problemSolution3();
+    problemSolution3(1.5, M);
     cout << "Problem 4\n";
     problemSolution4();
     cout << "Problem 5\n";
