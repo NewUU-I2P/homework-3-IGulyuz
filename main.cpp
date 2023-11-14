@@ -15,7 +15,7 @@ int main() {
     cout << "Problem 3\n";
     problemSolution3(1.5, M);
     cout << "Problem 4\n";
-    problemSolution4();
+    problemSolution4(FF:FF:FF:FF:FF:FF);
     cout << "Problem 5\n";
     problemSolution5();
     return 0;
